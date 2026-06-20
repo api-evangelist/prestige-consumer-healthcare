@@ -2,7 +2,7 @@ aid: prestige-consumer-healthcare
 url: https://raw.githubusercontent.com/api-evangelist/prestige-consumer-healthcare/refs/heads/main/apis.yml
 name: Prestige Consumer Healthcare
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Consumer Healthcare
   - OTC
@@ -17,7 +17,7 @@ apis:
     tags:
       - Consumer Healthcare
       - OTC
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.prestigeconsumerhealthcare.com
     humanURL: https://developer.prestigeconsumerhealthcare.com
     properties:
