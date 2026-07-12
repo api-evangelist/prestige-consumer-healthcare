@@ -26,6 +26,8 @@ apis:
     description: >-
       The Prestige Consumer Healthcare API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/prestige-consumer-healthcare-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/prestige-consumer-healthcare
   - type: Website

@@ -1,0 +1,25 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.prestigeconsumerhealthcare.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  9 06:37:58 2026 GMT
+  hsts: null
+- host: developer.prestigeconsumerhealthcare.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  9 07:01:14 2026 GMT
+  hsts: null
+- host: api.prestigeconsumerhealthcare.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  9 07:01:14 2026 GMT
+  hsts: null
+domains:
+- domain: prestigeconsumerhealthcare.com
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
