@@ -23,6 +23,7 @@ accessModel:
   confidence: medium
   source:
   - plans
+  - {url: 'https://www.prestigeconsumerhealthcare.com', status: 301, note: 'declared website redirects to https://www.prestigebrands.com/ — a different registrable domain (prestigeconsumerhealthcare.com -> prestigebrands.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prestige-consumer-healthcare.png
