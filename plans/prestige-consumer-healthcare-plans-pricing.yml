@@ -46,3 +46,19 @@ notes: >-
   No public pricing or plan documentation exists. Reconciled=false because
   there is nothing publicly published to verify against. Trimmed scaffold to
   a single enterprise / contact-sales entry to avoid fabricated tier data.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units:
+  - period
+  plans:
+  - name: Enterprise / Contact Sales
+    access: enterprise
+    model: subscription
+    model_how: derived
+    units:
+    - period
+    periods:
+    - month
